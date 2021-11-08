@@ -25,4 +25,4 @@ Clickable Prototype:
 https://invis.io/KM109W5YPC9R
 
 Architecture and APIs:
-![](architecture.png)
+![](wefoodies.JPG)
